@@ -1,0 +1,148 @@
+body{
+    margin: 0;
+    margin-block-end:100px ;
+}
+
+
+.navbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.navbar img{
+    width: 150px;
+   
+}
+.navbar h1{
+    margin-left:30px ;
+    font-size: 40px;
+    flex: 80%;
+}
+.navbar input{
+    float: right;
+    flex: 20%;
+    margin-right: 40px;
+    padding: 10px;
+}
+.compra1 img{
+    width: 300px;
+}
+.compra1{
+    border: solid black;
+    float: left;
+    
+    margin-top: 100px;
+    text-align: center;
+    width: 300px;
+    box-shadow: 3px 3px 20px;
+}
+.compra1 p{
+    text-align: center;
+}
+.compra1 button{
+    background-color: green;
+    color: white  ;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.divP{
+    display: flex ;
+    justify-content: center;
+}
+.compra2{
+    border: solid black;
+    float: left;
+    margin-left: 100px;
+    margin-top: 100px;
+    text-align: center;
+    width: 300px;
+    box-shadow: 3px 3px 20px;
+}
+.compra2 img{
+    width: 300px;
+}
+.compra2 button{
+    background-color: green;
+    color: white  ;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.compra1 button:hover{
+    color: black;
+    cursor: pointer;
+}
+.compra2 button:hover{
+    color: black;
+    cursor: pointer;
+}
+.compra3{
+    border: solid black;
+    float: left;
+    margin-left: 100px;
+    margin-top: 100px;
+    text-align: center;
+    width: 300px;
+    box-shadow: 3px 3px 20px;
+}
+.compra3 img{
+    width: 300px;
+    margin-top: 10px;
+}
+.compra3 p{
+    margin-top: 58px;
+}
+.compra3 button{
+    background-color: green;
+    color: white  ;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.compra3 button:hover{
+    color: black;
+    cursor: pointer;
+}
+.compra3 button:hover{
+    color: black;
+    cursor: pointer;
+}
+.compra4{
+    border: solid black;
+    float: left;
+    margin-left: 100px;
+    margin-top: 100px;
+    text-align: center;
+    width: 300px;
+    box-shadow: 3px 3px 20px;
+    
+}
+.compra4 img{
+    width: 300px;
+    margin-top: 10px;
+    height: 300px;
+}
+.compra4 p{
+    margin-top: 58px;
+}
+.compra4 button{
+    background-color: green;
+    color: white  ;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.compra4 button:hover{
+    color: black;
+    cursor: pointer;
+}
+.compra4 button:hover{
+    color: black;
+    cursor: pointer;
+}
+.h1P{
+    text-align: center;
+    font-size: 60px;
+}
